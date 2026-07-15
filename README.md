@@ -1,7 +1,5 @@
 # Welcome to WCSim
 
-#Checking point
-
 WCSim is a very flexible Geant4-based program for developing and
 simulating large water Cherenkov detectors.
 
