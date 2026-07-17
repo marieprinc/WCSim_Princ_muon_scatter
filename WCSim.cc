@@ -64,7 +64,9 @@ namespace {     // Anonymous namespace for local helper functions and classes
 
 int main(int argc,char** argv)
 {
-  
+
+  #control command
+
   WCSimExeMode exemode = WCSimExeMode::Unknown;
 
   // Construct the default run manager
