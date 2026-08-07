@@ -245,6 +245,9 @@ int main(int argc,char** argv)
 #endif
 
   delete runManager;
+
+  G4cout << "Hello beautiful" << G4endl;
+
   return 0;
 }
 
